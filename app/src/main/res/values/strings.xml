@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Rick&amp;Morty</string>
+    <string name="lost_inet_connection_dialog">You lost internet connection!!!\nSome functionality may not work</string>
+</resources>
